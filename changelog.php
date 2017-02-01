@@ -4,6 +4,10 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.0.7.2 =====|
+Tweaks to page display (using jquery hack) -- removed
+Redid the way jQuery is initialized to work with the Async Javascript Optimzer plugin.
+
 |==== Version 0.0.7.1 =====|
 Default values for 'toggle' classes on Slogan and Hours
 
