@@ -4,6 +4,8 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.0.8.9 =====|
+fixed whiteout JS bug.
 |==== Version 0.0.8.8 =====|
 Modified simar_navigation.js
 Modified css locations for bootstrap
