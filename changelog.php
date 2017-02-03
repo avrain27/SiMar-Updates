@@ -4,6 +4,9 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.0.8.1 =====|
+Added async to most .js
+
 |==== Version 0.0.8.0 =====|
 Stylesheets should now work with Autoptimize and increase page speeds. 
 
