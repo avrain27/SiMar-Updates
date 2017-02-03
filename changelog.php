@@ -4,6 +4,10 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.0.8.8 =====|
+Modified simar_navigation.js
+Modified css locations for bootstrap
+Speed issues should be resolved (fingers crossed :x)
 |==== Version 0.0.8.7 =====|
 potentil fixes- probably dont work
 |==== Version 0.0.8.6 =====|
