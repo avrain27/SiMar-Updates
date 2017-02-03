@@ -4,6 +4,8 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.0.9.1 =====|
+change 'api/' to 'api' for broader script coverage
 |==== Version 0.0.9.0 =====|
 Added defer='defer' to sources with /api/ to target google.
 |==== Version 0.0.8.9 =====|
