@@ -4,6 +4,8 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.0.9.2 =====|
+added youtube js to defering list
 |==== Version 0.0.9.1 =====|
 change 'api/' to 'api' for broader script coverage
 |==== Version 0.0.9.0 =====|
