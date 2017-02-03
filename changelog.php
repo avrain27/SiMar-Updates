@@ -4,6 +4,8 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.0.8.3 =====|
+Changes that hopefully work...
 |==== Version 0.0.8.2 =====|
 Added defer to jquery.js
 |==== Version 0.0.8.1 =====|
