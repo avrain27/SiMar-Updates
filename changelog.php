@@ -4,6 +4,8 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.0.8.6 =====|
+included bootstrap in footer
 |==== Version 0.0.8.5 =====|
 css include tweaks
 |==== Version 0.0.8.4 =====|
