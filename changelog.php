@@ -4,6 +4,11 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.1.0.0 =====|
+Customizer Modifications
+	- Deprecated "Home Page Specifics" Options
+	- Moved around various other options
+	- Partials Removed (may be added back in future)
 |==== Version 0.0.9.2 =====|
 added youtube js to defering list
 |==== Version 0.0.9.1 =====|
