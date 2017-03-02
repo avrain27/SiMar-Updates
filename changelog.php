@@ -9,6 +9,8 @@ Customizer Modifications
 	- Deprecated "Home Page Specifics" Options
 	- Moved around various other options
 	- Partials Removed (may be added back in future)
+Gallery CSS Changes
+	- Tweaks to .container-fluid, .row for gallery section.
 |==== Version 0.0.9.2 =====|
 added youtube js to defering list
 |==== Version 0.0.9.1 =====|
