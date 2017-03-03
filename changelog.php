@@ -4,6 +4,8 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.1.2.0 =====|
+Fixed $args to allow more than 5 posts to show up (caused issues with Simar Post type)
 |==== Version 0.1.1.0 =====|
 Gallery CSS Changes
 	- Tweaks to .container-fluid, .row for gallery section.
