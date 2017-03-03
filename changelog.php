@@ -4,6 +4,8 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.1.4.0 =====|
+Scroll Reveal: reset set to false;
 |==== Version 0.1.3.0 =====|
 Added Street Address to simar_map widget.
 |==== Version 0.1.2.0 =====|
