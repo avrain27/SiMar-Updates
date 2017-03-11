@@ -4,6 +4,13 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.2.0.0 =====|
+Major Changes:
+	- Restructured Header
+		- Now 3 Divs that can be built with widgets
+		- CSS adaptations to patch up old functionality
+Minor Fixes:
+	- social media "scrolling gallery tag" now correctly says "social sharing shortcode" in the customizer
 |==== Version 0.1.4.0 =====|
 Scroll Reveal: reset set to false;
 |==== Version 0.1.3.0 =====|
