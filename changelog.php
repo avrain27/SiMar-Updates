@@ -4,7 +4,7 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
-|==== Version 0.2.3.1/2/3 =====|
+|==== Version 0.2.3.1/2/3/4 =====|
 - attempts...
 - scroll reveal for social media fixed on mobile
 |==== Version 0.2.3.0 =====|
