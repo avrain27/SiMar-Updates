@@ -4,8 +4,9 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
-|==== Version 0.2.3.1 =====|
-- attempt 2
+|==== Version 0.2.3.1/2/3 =====|
+- attempts...
+- scroll reveal for social media fixed on mobile
 |==== Version 0.2.3.0 =====|
 - attempt to fix navwalker not working on mobile
 |==== Version 0.2.2.0 =====|
