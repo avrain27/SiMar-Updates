@@ -4,9 +4,6 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
-|==== Version 0.2.3.2 =====|
-- attempt 3
-- potential fix for social links on mobile
 |==== Version 0.2.3.1 =====|
 - attempt 2
 |==== Version 0.2.3.0 =====|
