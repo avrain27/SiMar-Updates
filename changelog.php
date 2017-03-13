@@ -4,6 +4,10 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.2.3.0 =====|
+- attempt to fix navwalker not working on mobile
+|==== Version 0.2.2.0 =====|
+- several widgets added
 |==== Version 0.2.0.0 =====|
 Major Changes:
 	- Restructured Header
