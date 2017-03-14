@@ -4,6 +4,8 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.2.5.0 =====|
+- Added option to add a second Facebook link.
 |==== Version 0.2.4.0 =====|
 - Minor scroll reveal tweak for mobile (social links)
 |==== Version 0.2.3.1/2/3/4/5 =====|
