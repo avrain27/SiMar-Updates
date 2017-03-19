@@ -4,6 +4,8 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.2.7.0 =====|
+- Added Single.php template for the Posts page.
 |==== Version 0.2.6.0 =====|
 - logo customizer options are fixed (js updated)
 |==== Version 0.2.5.0 =====|
