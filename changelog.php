@@ -4,7 +4,7 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
-|==== Version 0.2.8.0 =====|
+|==== Version 0.2.9.0 =====|
 - Added support to override Footer Info section.
 |==== Version 0.2.7.0/1 =====|
 - Added Single.php and Home.php template for the Posts page.
