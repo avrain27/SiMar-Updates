@@ -4,6 +4,8 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.3.2.0 =====|
+- Added visitors page template.
 |==== Version 0.3.1.0 =====|
 - Minor bug fixes (customizer.js)
 |==== Version 0.3.0.0 =====|
