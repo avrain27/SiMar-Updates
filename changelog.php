@@ -4,6 +4,11 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.3.4.0 =====|
+- Removed Async load URL cleaning
+|==== Version 0.3.3.0 =====|
+- Added new contact page shortcodes
+- Added a shortcode word document to describe how to use the shortcodes.
 |==== Version 0.3.2.0 =====|
 - Added visitors page template.
 |==== Version 0.3.1.0 =====|
