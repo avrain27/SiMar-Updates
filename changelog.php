@@ -4,6 +4,8 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.3.5.0 =====|
+- added support for bootstrap navwalker depth 3
 |==== Version 0.3.4.1 =====|
 - simar_contact_header fix
 |==== Version 0.3.4.0 =====|
