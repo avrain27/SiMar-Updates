@@ -4,6 +4,8 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.3.7.0 =====|
+- overflow fixes for navigation bar on mobile
 |==== Version 0.3.6.0 =====|
 - no-collapse menu bugs fixed
 - hovering dropdown menus simulates clicking when browser width > 768px
