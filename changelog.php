@@ -4,6 +4,10 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.3.6.0 =====|
+- no-collapse menu bugs fixed
+- hovering dropdown menus simulates clicking when browser width > 768px
+- menus now auto adjust to expand rightward if they would not be fully visible in a smaller browser size (i.e. run off the right edge of the browser)
 |==== Version 0.3.5.0 =====|
 - added support for bootstrap navwalker depth 3
 |==== Version 0.3.4.1 =====|
