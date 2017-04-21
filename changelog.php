@@ -4,6 +4,8 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.3.8.0 =====|
+- added support for flip tiles
 |==== Version 0.3.7.0 =====|
 - overflow fixes for navigation bar on mobile
 |==== Version 0.3.6.0 =====|
