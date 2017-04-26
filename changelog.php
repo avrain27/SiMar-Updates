@@ -4,6 +4,9 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.3.9.0 =====|
+- added 'contact-blurb' class to [simar_contact_header]
+- fixed JS error with menu fixes (occured for menus that didn't have dropdowns)
 |==== Version 0.3.8.4/5/6 =====|
 -- mobile scrolling bugfix
 |==== Version 0.3.8.3 =====|
