@@ -4,6 +4,8 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.4.1.0 =====|
+- Added Vimeo support for [simar_video] using the tag " vimeo='true' "
 |==== Version 0.4.0.0 =====|
 - Added footer option to say (copyright) SiMar or WebWise in the customizer
 |==== Version 0.3.9.0 =====|
