@@ -4,6 +4,8 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.4.2.0 =====|
+- Modified Tiles Interaction (click on desktop as well as mobile)
 |==== Version 0.4.1.1 =====|
 - Added Vimeo embed options for a cleaner look
 |==== Version 0.4.1.0 =====|
