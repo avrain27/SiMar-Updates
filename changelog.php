@@ -4,6 +4,8 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.4.1.1 =====|
+- Added Vimeo embed options for a cleaner look
 |==== Version 0.4.1.0 =====|
 - Added Vimeo support for [simar_video] using the tag " vimeo='true' "
 |==== Version 0.4.0.0 =====|
