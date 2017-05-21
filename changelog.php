@@ -4,6 +4,9 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.4.3.0 / 0.5.0.0 =====|
+- minified css added
+- simar_child.css no longer loaded to increase PageSpeeds
 |==== Version 0.4.2.0 =====|
 - Modified Tiles Interaction (click on desktop as well as mobile)
 |==== Version 0.4.1.1 =====|
