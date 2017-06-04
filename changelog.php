@@ -4,6 +4,8 @@
 	<title>SiMar Template: Changelog</title>
 </head>
 <body>
+|==== Version 0.4.6.0 =====|
+- Fixed footer default setting in customizer
 |==== Version 0.4.3.0 / 0.5.0.0 =====|
 - minified css added
 - simar_child.css no longer loaded to increase PageSpeeds
